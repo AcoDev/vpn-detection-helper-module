@@ -1,0 +1,36 @@
+{
+  "name": "vpn-detection-helper-module",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js helper to detect VPN, proxy, Tor exit nodes and other IP privacy characteristics.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "vpn",
+    "proxy",
+    "tor",
+    "ip-detection",
+    "privacy",
+    "nodejs",
+    "ip",
+    "vpn-detection"
+  ],
+  "author": "Gerardo Acosta",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AcoDev/vpn-detection-helper-module.git"
+  },
+  "homepage": "https://github.com/AcoDev/vpn-detection-helper-module#readme",
+  "bugs": {
+    "url": "https://github.com/AcoDev/vpn-detection-helper-module/issues"
+  },
+  "dependencies": {
+    "axios": "^1.10.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
