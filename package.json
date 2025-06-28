@@ -1,11 +1,11 @@
 {
-  "name": "vpn-detection-helper-module",
+  "name": "@acodev/vpn-detection-helper-module",
   "version": "1.0.0",
   "description": "A lightweight Node.js helper to detect VPN, proxy, Tor exit nodes and other IP privacy characteristics.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node test/index.js"
+    "test": "node index.js"
   },
   "keywords": [
     "vpn",
