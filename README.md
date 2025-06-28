@@ -32,7 +32,7 @@ import { analyzeIPPrivacy} from '@acodev/vpn-detection-helper-module';
 
 ## Example
 
-```json
+```
 {
   ip: '8.8.8.8',                                                                                                                                                                                                        
   isTor: false,
