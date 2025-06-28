@@ -17,6 +17,9 @@
     "ip",
     "vpn-detection"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },  
   "author": "Gerardo Acosta",
   "license": "MIT",
   "repository": {
